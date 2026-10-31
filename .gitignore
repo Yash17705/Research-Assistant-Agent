@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[oc]
+*.pyc
+build/
+dist/
+wheels/
+*.egg-info/
+.venv/
+.env*
+.langgraph_api/
+
+# macOS
+.DS_Store
